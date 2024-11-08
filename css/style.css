@@ -144,7 +144,7 @@ margin-top: 80px;
     width: 30%;
     display: flex;
     justify-content: center;
-    margin-top: 150px;
+    margin-top: 50px;
     margin-left: 450px;
     flex-direction: column;
 
@@ -155,7 +155,16 @@ margin-top: 80px;
     width: 30%;
     height: 30px;
     margin-top: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+   margin-left: 150px;
    
+}
+.fleche{
+    color: #FF0404;
+   margin-left: 200px;
 }
 
 
